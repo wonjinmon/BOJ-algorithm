@@ -6,3 +6,5 @@ for _ in range(N):
 list1 = sorted(list1)
 for i in range((N)):
     print(list1[i][0], list1[i][1])
+
+# sort에서 key, lambda 사용 가능
